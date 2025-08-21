@@ -18,9 +18,4 @@ A **Streamlit web application** that predicts **car purchase amount** based on u
 
 ---
 
-## 🖥️ Demo
-(You can deploy this on [Streamlit Cloud](https://streamlit.io/cloud) or share screenshots here.)
 
----
-
-## 📂 Project Structure
